@@ -1,20 +1,2 @@
-# ryclolsi
-public class calculadora {
-
-    public static double Somar(double num1, double num2){
-         return num1 +num2;
-    }
-    public static double Subtrair(double num3, double num4){
-        return num3 - num4;
-    }
-    public static double Multiplicar(double num5, double num6){
-        return num5 * num6;
-    }
-    public static double Divisão(double num7, double num8){
-        return num7/num8;
-    }
-    public static int Módulo(int num9, int num10){
-        return num9 % num10;
-    }
-     
-}
+usuário vai escolher o valor para N <=10, para o programa fazer uma calculadora de N	 Passo1: i = 1 resultado = 1 x n imprime resultado; Passo2: i = 2 resultado = 2 x n imprime resultado; Passo3: i = 3 resultado = 3 x n imprime resultado; Passo4: i = 4 resultado = 4 x n imprime resultado; Passo5: i = 5 resultado = 5 x n imprime resultado; Passo6: i = 6 resultado = 6 x n imprime resultado; Passo7: i = 7 resultado = 7 x n imprime resultado; Passo8: i = 8 resultado = 8 x n imprime resultado; Passo9: i = 9 resultado = 9 x n imprime resultado; Passo10: i = 10 resultado = 10 x n imprime resultado;
+    
